@@ -5,3 +5,4 @@
 - [JavaScript in Modern Area of Product Development](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Statements ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Syntex ](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Variables ](https://www.youtube.com/@Productmanagemententrepreneur)

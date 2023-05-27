@@ -6,3 +6,4 @@
 - [JavaScript Statements ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Syntex ](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Variables ](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Let](https://www.youtube.com/@Productmanagemententrepreneur)

@@ -9,4 +9,4 @@
 - [JavaScript Let](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Const](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Operators](https://www.youtube.com/@Productmanagemententrepreneur)
-- 
+- [JavaScript Arithemetic](https://www.youtube.com/@Productmanagemententrepreneur)

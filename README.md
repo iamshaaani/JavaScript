@@ -11,3 +11,4 @@
 - [JavaScript Operators](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Arithemetic](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Assignment](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Datatypes](https://www.youtube.com/@Productmanagemententrepreneur)

@@ -13,3 +13,4 @@
 - [JavaScript Assignment](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Datatypes](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Functions](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Objects](https://www.youtube.com/@Productmanagemententrepreneur)

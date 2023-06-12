@@ -15,3 +15,4 @@
 - [JavaScript Functions](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Objects](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Events](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Strings](https://www.youtube.com/@Productmanagemententrepreneur)

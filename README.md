@@ -17,3 +17,4 @@
 - [JavaScript Events](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Strings](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Strings Methods](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Strings Search](https://www.youtube.com/@Productmanagemententrepreneur)

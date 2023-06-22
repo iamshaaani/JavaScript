@@ -22,3 +22,4 @@
 - [JavaScript Numbers](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript BigInt](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Number Method](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Number Properties](https://www.youtube.com/@Productmanagemententrepreneur)

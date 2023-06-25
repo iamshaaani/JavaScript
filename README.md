@@ -24,3 +24,4 @@
 - [JavaScript Number Method](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Number Properties](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Arrays](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Arrays Methods](https://www.youtube.com/@Productmanagemententrepreneur)

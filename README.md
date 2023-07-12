@@ -25,5 +25,6 @@
 - [JavaScript Number Properties](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Arrays](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Arrays Methods](https://www.youtube.com/@Productmanagemententrepreneur)
-- [JavaScript Number Sort](https://www.youtube.com/@Productmanagemententrepreneur)
-- [JavaScript Number Iteration](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Array Sort](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Array Iteration](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Array Cost](https://www.youtube.com/@Productmanagemententrepreneur)

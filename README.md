@@ -27,4 +27,5 @@
 - [JavaScript Arrays Methods](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Array Sort](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Array Iteration](https://www.youtube.com/@Productmanagemententrepreneur)
-- [JavaScript Array Cost](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Array Const](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Dates](https://www.youtube.com/@Productmanagemententrepreneur)

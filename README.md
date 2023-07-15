@@ -30,3 +30,4 @@
 - [JavaScript Array Const](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Dates](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Dates Formates](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Dates Get Method](https://www.youtube.com/@Productmanagemententrepreneur)

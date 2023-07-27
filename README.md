@@ -32,3 +32,4 @@
 - [JavaScript Dates Formates](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Dates Get Method](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript JS Math](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript JS Random](https://www.youtube.com/@Productmanagemententrepreneur)

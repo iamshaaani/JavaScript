@@ -34,3 +34,8 @@
 - [JavaScript JS Math](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript JS Random](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript JS Booleans](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript JS Comparisons](https://www.youtube.com/@Productmanagemententrepreneur)
+
+
+
+

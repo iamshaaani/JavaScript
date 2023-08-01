@@ -36,6 +36,7 @@
 - [JavaScript JS Booleans](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript JS Comparisons](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript If Else](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Switch](https://www.youtube.com/@Productmanagemententrepreneur)
 
 
 

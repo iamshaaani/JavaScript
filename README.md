@@ -38,5 +38,5 @@
 - [JavaScript If Else](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Switch](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Loop for](https://www.youtube.com/@Productmanagemententrepreneur)
-
+- [JavaScript Loop for In](https://www.youtube.com/@Productmanagemententrepreneur)
 

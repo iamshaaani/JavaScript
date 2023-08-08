@@ -39,5 +39,6 @@
 - [JavaScript Switch](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Loop for](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Loop for In](https://www.youtube.com/@Productmanagemententrepreneur)
-- [JavaScript Loop for Out](https://www.youtube.com/@Productmanagemententrepreneur)
-
+- [JavaScript Loop for Off](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Loop for Off](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Loop While](https://www.youtube.com/@Productmanagemententrepreneur)

@@ -42,3 +42,4 @@
 - [JavaScript Loop for Off](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Loop for Off](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Loop While](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Break](https://www.youtube.com/@Productmanagemententrepreneur)

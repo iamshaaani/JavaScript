@@ -43,4 +43,5 @@
 - [JavaScript Loop for Off](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Loop While](https://www.youtube.com/@Productmanagemententrepreneur)
 - [JavaScript Break](https://www.youtube.com/@Productmanagemententrepreneur)
-- [JavaScript Iterables](https://www.youtube.com/@Productmanagemententrepreneur)                
+- [JavaScript Iterables](https://www.youtube.com/@Productmanagemententrepreneur)
+- [JavaScript Iterables Method](https://www.youtube.com/@Productmanagemententrepreneur)               
